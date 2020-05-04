@@ -1,0 +1,4 @@
+baseURL = "https://interkosmos.org/"
+languageCode = "en-us"
+title = "Interkosmos System"
+theme = "archie"

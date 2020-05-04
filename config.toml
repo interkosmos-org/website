@@ -5,7 +5,6 @@ theme = "archie"
 copyright = "interkosmos.org"
 
 [params]
-  mode="auto"
   featherIconsCDN=true
 
 [[params.social]]
